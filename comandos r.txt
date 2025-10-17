@@ -1,0 +1,11 @@
+ls() = listar elementos del directorio
+getwd() = ruta donde trabaja el archivo
+a<-c(0,0,0,1,0,0,1) = <- operador de asignasión
+a = muestra los datos de la varibale asignada
+b[3] = muesta el contenido en la posición 3 , se diferencia de python por que parte de 1
+"" = es texto
+a +b = suma los vectores
+sum(a) = suma el contenido del vector
+gc() = libera espacio de memoria ram desde consola
+
+ 
